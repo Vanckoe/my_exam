@@ -3,6 +3,7 @@ import 'package:bottom_bar_matu/bottom_bar_matu.dart';
 import 'package:flutter_market/presentation/screen/animation.dart';
 import 'package:flutter_market/presentation/screen/card_screen.dart';
 import 'package:flutter_market/presentation/screen/qr.dart';
+import 'package:flutter_market/presentation/screen/stories.dart';
 import 'package:flutter_market/presentation/screen/user_screen.dart';
 
 
@@ -19,7 +20,7 @@ class _BottomState extends State<Bottom> {
     CardsPage(),
     Anime(),
     QRScanPage(),
-    PageWidget('Settings Page', Colors.purple),
+    Stories(),
   ];
 
   void _onItemTapped(int index) {
