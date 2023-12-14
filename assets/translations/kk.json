@@ -1,0 +1,24 @@
+{
+    "Entrase": "Кіру",
+    "Password": "Құпия сөз",
+    "Enter": "Кіру",
+    "Registration": "Тіркелу",
+    "User_profile":"Пайдаланушы профилі",
+    "Failed_upload":"Пайдаланушы деректерін жүктеу мүмкін болмады",
+    "Name": "Аты",
+    "Age": "Жасы",
+    "Country": "Ел",
+    "Sex": "Жынысы",
+    "Phone": "Телефон",
+    "Log_out": "Есептік жазбадан шығу",
+    "Register": "Тіркелу",
+    "Financs_cards": "Қаржы Карточкалары",
+    "Download_error": "Жүктеу қатесі",
+    "Click_to_download": "Карталарды жүктеу үшін басыңыз",
+    "Image_is_missing": "Сурет жоқ",
+    "Without_name": "Атауы жоқ",
+    "Description_is_missing": "Сипаттама жоқ",
+    "Prof_fin": "Кәсіби Қаржылық Анимация",
+    "Email": "Email"
+    
+}

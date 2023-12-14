@@ -1,0 +1,24 @@
+{
+    "Entrase": "Entrase",
+    "Password": "Password",
+    "Enter": "Enter",
+    "Registration": "Registration",
+    "User_profile":"User Profile",
+    "Failed_upload":"User data could not be uploaded",
+    "Name": "Name",
+    "Age": "Age",
+    "Country": "Country",
+    "Sex": "Sex",
+    "Phone": "Phone",
+    "Log_out": "Log out of your account",
+    "Register": "Register",
+    "Financs_cards": "Financial Cards",
+    "Download_error": "Download error",
+    "Click_to_download": "Click to download the cards",
+    "Image_is_missing": "The image is missing",
+    "Without_name": "Untitled",
+    "Description_is_missing": "There is no description",
+    "Prof_fin": "Professional Financial Animation",
+    "Email": "Email"
+
+}
